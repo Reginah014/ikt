@@ -1,0 +1,18 @@
+body{
+    background-color: #87CEFA;
+    color: #00008B;
+}
+a{
+    color: firebrick;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
+.tabla , tr {
+    text-align: right; 
+    border: 2px black solid ;
+    border-collapse: collapse;
+}
